@@ -1,7 +1,12 @@
 # reliable-client-server
 Reliable client-server communication using custom protocol on top of UDP to ensure reliable packet transfer,error handling, retransmission, packet ack and rejection mechanism.
 
-
+Description:-
+-------------
+● Designed and implemented a client-server communication system in C, ensuring reliable data transfer for a set of packets.
+● Developed error-handling mechanisms, including packet retransmission and timeout management, with a 3-second timer and a retry counter.
+● Achieved robust packet acknowledgment and rejection handling, allowing for effective data exchange even in the presence of errors.
+● Demonstrated problem-solving skills and attention to detail by delivering a fault-tolerant communication system.
 
 Instructions:-
 --------------
